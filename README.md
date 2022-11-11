@@ -10,12 +10,6 @@ Materials to reproduce the results of the paper submitted to [Journal](https://w
 ![Screenshot](graphical_abstract.jpg)
 
 
-## Optional files
-:one: [Pre-Trained model](https://drive.google.com/file/d/1CmHLK6lPJgEa6W0Lv0ImrNuCdZ5GGBtU/view?usp=sharing) Put it under **pre_trained** folder.
-
-:two: [VGGface-weights](https://drive.google.com/file/d/1ClyOxel9c7F7EJqzYadIOiY5mNMeKFUI/view?usp=sharing) Put it under **src** folder.
-
-
 ## Data
 Put your data under **data** folder and follow instructions in **read.txt**
 
